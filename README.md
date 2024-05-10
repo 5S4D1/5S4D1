@@ -1,3 +1,5 @@
+![Today (1)](https://github.com/5S4D1/5S4D1/assets/123616359/b36a8fcd-b801-46bd-ba44-3fc81fdeb7a4)
+
 <h1 align="center">Hi 👋, I'm Sadi</h1>
 <h3 align="center">I am a Computer Science student.</h3>
 
