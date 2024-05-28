@@ -1,7 +1,7 @@
 ![Today (1)](https://github.com/5S4D1/5S4D1/assets/123616359/b36a8fcd-b801-46bd-ba44-3fc81fdeb7a4)
 
 <h1 align="center">Hi 👋, I'm Sadi</h1>
-<h3 align="center">I am a Computer Science student.<br> I'm passionate about coding and enjoy building things.💥</h3>
+<h3 align="center">I am a Computer Science & Engineering student.<br> I'm passionate about coding and enjoy building things.💥</h3>
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5s4d1" alt="5s4d1" /></a> </p>
