@@ -37,7 +37,7 @@
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
   <span style="margin-left: 30px;">&nbsp;</span>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-blender-3521310-2944729.png?f=webp&w=256" alt="blender" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 ---
 
