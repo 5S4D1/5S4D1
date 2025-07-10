@@ -129,7 +129,7 @@
 - 📁 **Repository**: [campus-ride](https://github.com/badhon-dalbot/campus-ride.git)
 - 🎯 **Course**: Software Analysis and Design (SAD)
 - 👥 **Team Project**: Collaborative development with friends
-- 🎡 **Tech Stack**: React, Node.js, MySQL
+- 🎡 **Tech Stack**: React, Tailwind CSS, Node.js, MySQL
 - 🔧 **Features**:
   - 🚖 **Ride Sharing**: Campus-focused transportation solution
   - 📱 **User-Friendly Interface**: Intuitive design for students and faculty
