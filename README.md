@@ -94,9 +94,9 @@
 - 🚀 **Production Repo**: [uiumarsrover.github.io](https://github.com/uiumarsrover/uiumarsrover.github.io.git)
 - 📋 **Description**: Developed the official website for UIU Mars Rover Team as a team member, showcasing team achievements, projects, and mission objectives
 
-### 📊 UIU CGPA Calculator & Student Tools
-- 🌐 **Live Site**: [UIU CGPA Calculator](https://5s4d1.github.io/uiu-cgpa-calculator/)
-- 📁 **Repository**: [uiu-cgpa-calculator](https://github.com/5S4D1/uiu-cgpa-calculator)
+### 📊 UIU Calculator & Student Tools
+- 🌐 **Live Site**: [UIU CGPA Calculator](https://5s4d1.github.io/uiu-calculator/)
+- 📁 **Repository**: [uiu-cgpa-calculator](https://github.com/5S4D1/uiu-calculator)
 - 🎯 **Features**:
   - 📈 **CGPA Calculator**: Calculate semester and cumulative CGPA
   - 📊 **Forecaster**: Predict future CGPA based on target grades
