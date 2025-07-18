@@ -96,7 +96,7 @@
 
 ### 📊 UIU Calculator & Student Tools
 - 🌐 **Live Site**: [UIU Calculator](https://5s4d1.github.io/uiu-calculator/)
-- 📁 **Repository**: [uiu-calculator](https://github.com/5S4D1/uiu-calculator)
+- 📁 **Repository**: [uiu-calculator](https://github.com/5S4D1/uiu-calculator.git)
 - 🎯 **Features**:
   - 📈 **CGPA Calculator**: Calculate semester and cumulative CGPA
   - 📊 **Forecaster**: Predict future CGPA based on target grades
@@ -105,7 +105,7 @@
 - 📋 **Description**: A comprehensive web application designed to help UIU students manage their academic planning and calculations
 
 ### 📊 UIU Mars Rover Team System Dashboard
-- 📁 **Repository**: [dashboard](https://github.com/5S4D1/dashboard.git)
+- 📁 **Repository**: [UMRT_dashboard](https://github.com/5S4D1/UMRT_dashboard.git)
 - 🎯 **Purpose**: Real-time monitoring and control system for UIU Mars Rover Team operations
 - 🔧 **Features**:
   - 📡 **Real-time Data Monitoring**: Track rover systems and sensor data
